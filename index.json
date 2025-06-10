@@ -1,0 +1,14 @@
+{
+    "name": "Hossein",
+    "lastName": "Keshavarz",
+    "github": "H0301ein",
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Rust",
+        "Docker",
+        "Kubernetes"
+    ]
+}
